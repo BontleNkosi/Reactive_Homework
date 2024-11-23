@@ -1,0 +1,25 @@
+body {
+  background-color: #bae8d4;
+}
+h1 {
+  font-size: large;
+  text-align: center;
+  font-weight: 300;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: #a13f6a;
+}
+.shortbread-picture {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+h1,
+p {
+  text-align: center;
+}
